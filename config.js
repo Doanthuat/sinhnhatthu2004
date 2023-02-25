@@ -12,5 +12,5 @@ const CONFIG = {
     mess: 'Anh biết Thư nói vậy mà , happy birthday 🎂 🎂',
     messDesc: 'Bấm vào bên dưới đi em, đừng hồi hộp, anh cũng hồi hộp nữa hihi',
     btnAccept: 'Bấm nè tin tin <3 ',
-    messLink: '/sinhnhatem-ne-master/happy-birthday-master/index.html' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'sinhnhatem-ne-master/happy-birthday-master/index.html' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
