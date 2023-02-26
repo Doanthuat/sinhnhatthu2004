@@ -1334,7 +1334,7 @@
 	.ly-img21{
 		position: absolute;
 		width: 100%;
-		bottom: 14px;
+		bottom: -72px;
 	}
 	
 	/* 盒子 */
@@ -1403,7 +1403,7 @@
 	.ly-img22{
 		position: absolute;
 		width: 100%;
-		bottom: -41px;
+		bottom: -100px; 
 	}
 	
 	/* 盒子 */
@@ -1537,7 +1537,7 @@
 	.ly-img21{
 		position: absolute;
 		width: 100%;
-		bottom: 14px;
+		bottom: -72px;
 	}
 	
 	/* 盒子 */
@@ -1606,7 +1606,7 @@
 	.ly-img22{
 		position: absolute;
 		width: 100%;
-		bottom: -39px;
+		bottom: -100px;
 	}
 	
 	/* 盒子 */
@@ -2754,7 +2754,7 @@
 	}
 	.ly-box82 {
 		width: 65%;
-		height: 25%;
+		height: 53%;
 		border: 2px #CCC;
 		background-color: #fff;
 		background-color: rgba(255,255,255,0.6);
